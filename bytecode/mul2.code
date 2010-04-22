@@ -1,0 +1,1 @@
+Code {coOps = array (0, 3) [(0, LoadConst 0), (1, LoadConst 0), (2, Binary Multiply), (3, Return)], coConstants = fromList [(0, CInteger 2)]}
